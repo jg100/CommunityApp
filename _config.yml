@@ -37,15 +37,19 @@ features:
 
   - title: What we found
     description: Write something here and Wefound.md in _page file~~~
-    fontawesome_icon_name: mobile
+    fontawesome_icon_name: eye
 
   - title: The design process
     description: Write something here and Process.md in _page file ~~~~
-    fontawesome_icon_name: star
+    fontawesome_icon_name: spinner
 
   - title: Future design potential
     description: Write something here and Potential.md in _page file ~~~~
     fontawesome_icon_name: magic
+
+  - title: Feature List
+    description: Write something here and FeatureList.md in _page file ~~~~
+    fontawesome_icon_name: layer-group
 
   - title: # New Feature Title
     description: # New Feature Description
