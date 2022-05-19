@@ -47,8 +47,8 @@ features:
     description: Write something here and Potential.md in _page file ~~~~
     fontawesome_icon_name: magic
 
-  - title: Final Design 
-    description: Write something here and finalDesign.md in _page file ~~~~
+  - title: Final Design
+    description: The final prototype design which is for two different types of users in Grocery help and service help
     fontawesome_icon_name: layer-group
 
   - title: # New Feature Title
