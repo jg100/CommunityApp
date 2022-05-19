@@ -47,8 +47,8 @@ features:
     description: Write something here and Potential.md in _page file ~~~~
     fontawesome_icon_name: magic
 
-  - title: Feature List
-    description: Write something here and FeatureList.md in _page file ~~~~
+  - title: Final Design 
+    description: Write something here and finalDesign.md in _page file ~~~~
     fontawesome_icon_name: layer-group
 
   - title: # New Feature Title
