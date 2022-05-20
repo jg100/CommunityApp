@@ -27,3 +27,7 @@ While we did not have any specific roles assigned, we did each have a specific f
 ![zhiling](https://jg100.github.io/CommunityApp/assets/OurTeam/zhiling.png)
 
 <br>
+
+#### Niharika Rabadiya
+
+#### Fernando Bautista
