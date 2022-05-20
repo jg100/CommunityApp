@@ -2,7 +2,7 @@
 page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 1234793120 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: 718043190 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: us # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -11,7 +11,7 @@ presskit_download_link:
   https://emilbaehr.com # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
   # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon: assets/appicon.png # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description: The Community App - Connecting people with their neighbors
@@ -32,23 +32,23 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: About the app story
-    description: Write something here and AboutTheApp.md in _page file~~~~
+    description: How we came up with  our idea (Click to read more)
     fontawesome_icon_name: mobile
 
   - title: What we found
-    description: Our  findings regarding our designs
+    description: Our  findings regarding our designs (Click to read more)
     fontawesome_icon_name: eye
 
   - title: The design process
-    description: Steps taken to our final prototypes
+    description: Steps taken to our final prototypes (Click to read more)
     fontawesome_icon_name: spinner
 
   - title: Future design potential
-    description: Places where we can improve
+    description: Places where we can improve (Click to read more)
     fontawesome_icon_name: magic
 
   - title: Final Design
-    description: The final prototype design which is for two different types of users in Grocery help and service help
+    description: The final design (Click to read more)
     fontawesome_icon_name: layer-group
 
   - title: # New Feature Title
