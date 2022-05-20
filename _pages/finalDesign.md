@@ -10,7 +10,8 @@ permalink: /Final Design/
 #### Grocery
 * Users shall be able to send, edit, delete, and view the shopping request. When the Volunteer finishes the request, They need to confirm the request to make sure the volunteer and user don't have any loss. User also can rate the helper
 
-![The Grocery request flow](https://jg100.github.io/CommunityApp/assets/screenshot/groceryRequest.png)
+<!-- ![The Grocery request flow](https://jg100.github.io/CommunityApp/assets/screenshot/groceryRequest.png) -->
+[<img src="https://jg100.github.io/CommunityApp/assets/screenshot/groceryRequest.png">](https://jg100.github.io/CommunityApp/assets/screenshot/groceryRequest.png)
 
 <br>
 
