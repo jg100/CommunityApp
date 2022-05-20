@@ -10,10 +10,16 @@ Introduce your teammates and describe what their major roles were (if possible).
 # Team 13
 <br>
 
-#### Zhiling Huang
-`Descrition major role???`
+
 
 
 #### Joel Giannelli
+
+
+
+<br>
+#### Zhiling Huang
+
+![zhiling](/assets/OurTeam/zhiling.png)
 
 
