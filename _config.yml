@@ -20,13 +20,13 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 
 # Information About Yourself
 your_name:
-your_link: https://emilbaehr.com
+your_link: 
 your_city: San Francisco
-email_address: emil.baehr@gmail.com
+email_address: 
 facebook_username:
-instagram_username: ebaehr
-twitter_username: ebaehr
-github_username: emilbaehr
+instagram_username: 
+twitter_username: 
+github_username: 
 youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
