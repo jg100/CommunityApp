@@ -36,15 +36,15 @@ features:
     fontawesome_icon_name: mobile
 
   - title: What we found
-    description: Write something here and Wefound.md in _page file~~~
+    description: Our  findings regarding our designs
     fontawesome_icon_name: eye
 
   - title: The design process
-    description: Write something here and Process.md in _page file ~~~~
+    description: Steps taken to our final prototypes
     fontawesome_icon_name: spinner
 
   - title: Future design potential
-    description: Write something here and Potential.md in _page file ~~~~
+    description: Places where we can improve
     fontawesome_icon_name: magic
 
   - title: Final Design
