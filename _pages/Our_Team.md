@@ -13,10 +13,16 @@ As a team we all collectively worked together on different parts of the project.
 
 While we did not have any specific roles assigned, we did each have a specific focus.
 
-#### Zhiling Huang
-`Descrition major role???`
+
 
 
 #### Joel Giannelli
+
+
+
+<br>
+#### Zhiling Huang
+
+![zhiling](/assets/OurTeam/zhiling.png)
 
 
