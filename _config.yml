@@ -32,7 +32,7 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: About the app story
-    description: Write something here and AboutTheApp.md in _page file~~~~
+    description: How we came up with  our idea (Click to read more)
     fontawesome_icon_name: mobile
 
   - title: What we found
