@@ -12,3 +12,8 @@ Introduce your teammates and describe what their major roles were (if possible).
 
 #### Zhiling Huang
 `Descrition major role???`
+
+
+#### Joel Giannelli
+
+
