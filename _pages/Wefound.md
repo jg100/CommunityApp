@@ -24,13 +24,13 @@ If so, how?
 
 We have interviewed 4 people to get our data
 
-![The interview data](https://jg100.github.io/CommunityApp/assets/screenshot/interview.png)
+<a href="https://jg100.github.io/CommunityApp/assets/screenshot/interview.png" rel="">![The interview data](https://jg100.github.io/CommunityApp/assets/screenshot/interview.png) </a>
 
 *  **Analysis data**
   
 We used Affinity Diagrams to analyze our data. We had four people involved in the analysis.
 
-![Anylysis data](https://jg100.github.io/CommunityApp/assets/screenshot/dataAnalysis.jpg)
+<a href="https://jg100.github.io/CommunityApp/assets/screenshot/dataAnalysis.jpg" rel="">![Anylysis data](https://jg100.github.io/CommunityApp/assets/screenshot/dataAnalysis.jpg)</a>
 
 
 #### Finding
