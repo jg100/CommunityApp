@@ -21,8 +21,9 @@ While we did not have any specific roles assigned, we did each have a specific f
 
 
 <br>
+
 #### Zhiling Huang
 
-![zhiling](/assets/OurTeam/zhiling.png)
+![zhiling](https://jg100.github.io/CommunityApp/assets/OurTeam/zhiling.png)
 
-
+<br>
