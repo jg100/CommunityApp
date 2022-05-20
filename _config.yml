@@ -36,19 +36,19 @@ features:
     fontawesome_icon_name: mobile
 
   - title: What we found
-    description: Our  findings regarding our designs
+    description: Our  findings regarding our designs (Click to read more)
     fontawesome_icon_name: eye
 
   - title: The design process
-    description: Steps taken to our final prototypes
+    description: Steps taken to our final prototypes (Click to read more)
     fontawesome_icon_name: spinner
 
   - title: Future design potential
-    description: Places where we can improve
+    description: Places where we can improve (Click to read more)
     fontawesome_icon_name: magic
 
   - title: Final Design
-    description: The final prototype design which is for two different types of users in Grocery help and service help
+    description: The final design (Click to read more)
     fontawesome_icon_name: layer-group
 
   - title: # New Feature Title
