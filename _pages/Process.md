@@ -27,8 +27,8 @@ We use figma to create wireframes.
 Stage 2 is to translate the wireframes into prototypes.
 We use Figma to finish the flow of the interaction, content, and color and to make it like a real App
 
-Figma Link:
-https://www.figma.com/file/P6GJLrGJvx9794KH1a83S0/finalProject?node-id=0%3A1
+Figma Prototype: <a href="https://www.figma.com/file/P6GJLrGJvx9794KH1a83S0/finalProject?node-id=0%3A1" rel="link">CommunityApp</a>
+
 
 We can use the Hi-fidelity prototype the play around with the app. It's also important for conducting the next stage of the iterate on prototype and Usability testing.
 
@@ -44,7 +44,7 @@ The data we found:
 ![heuristic1](https://jg100.github.io/CommunityApp/assets/process/Heuristic1.JPG)</a>
 
 <a href="https://jg100.github.io/CommunityApp/assets/process/Heuristic2.JPG" rel=" ">
-![heuristic1](https://jg100.github.io/CommunityApp/assets/process/Heuristic2.JPG)</a>
+![heuristic2](https://jg100.github.io/CommunityApp/assets/process/Heuristic2.JPG)</a>
 
 Then, we follow these problems and recommendations to revise the prototype
 
