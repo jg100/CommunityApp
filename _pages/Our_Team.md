@@ -21,3 +21,6 @@ Articualted analysis and research in a way that made it useful to final design a
 #### Niharika Rabadiya
 Collected data and did research to improve on the wireframes, to make a meaningful product. 
 
+#### Fernando Bautista
+Did research and gathered data.
+
